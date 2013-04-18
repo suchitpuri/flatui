@@ -5,7 +5,7 @@ require 'flatui/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "flatui"
-  spec.version       = "0.0.2"
+  spec.version       = "0.0.3"
   spec.authors       = ["Suchit Puri"]
   spec.email         = ["suchitpuri@gmail.com"]
   spec.description   = %q{simple liberary to include flat-ui into rails apps}
