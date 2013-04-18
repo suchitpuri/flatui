@@ -5,12 +5,12 @@ require 'flatui/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "flatui"
-  spec.version       = "0.0.1"
-  spec.authors       = ["Saurabh Bhatia"]
-  spec.email         = ["saurabh.a.bhatia@gmail.com"]
+  spec.version       = "0.0.2"
+  spec.authors       = ["Suchit Puri"]
+  spec.email         = ["suchitpuri@gmail.com"]
   spec.description   = %q{simple liberary to include flat-ui into rails apps}
   spec.summary       = %q{simple liberary to include flat-ui into rails apps}
-  spec.homepage      = "http://fedible.org"
+  spec.homepage      = "https://github.com/suchitpuri/flatui"
   spec.license       = "MIT"
 
   spec.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
